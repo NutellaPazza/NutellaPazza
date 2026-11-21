@@ -1,24 +1,23 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img alt="Giovanni De Stasio, finance student at Bocconi University. Quantitative finance, financial markets, venture capital, startups and apps." src="assets/header-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="GDS: Giovanni De Stasio, finance at Bocconi, Milan. I study financial markets, build trading systems and develop apps." src="assets/banner-light.svg" width="100%">
 </picture>
 
 <p align="center">
-  <a href="https://giovanni-portfolio-rho.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-121620?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://giovanni-portfolio-rho.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0e0f11?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/gds-/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <img src="https://img.shields.io/badge/Bocconi_University-Milan-f2a93b?style=for-the-badge&labelColor=121620" alt="Bocconi University, Milan">
+  <img src="https://img.shields.io/badge/Bocconi_University-Milan-2f8f57?style=for-the-badge&labelColor=0e0f11" alt="Bocconi University, Milan">
 </p>
 
 ### 👋 Hi, I'm Giovanni
 
-I study International Economics and Finance at **Bocconi University**. I work where financial markets meet
-entrepreneurship: I test market ideas with data, trade them, write research, and help build startups. I build
-my tools with AI-assisted development, so an idea becomes working software in days.
+I'm at **Bocconi University**, studying International Economics and Finance. I study financial markets, build
+trading systems and develop apps, mostly in Python and with AI tools like Claude and Codex.
 
 - 🏦 **Co-founder and Head of DCM** at [Vantedge](https://vantedgeorg.com/), a student finance and research organisation with 50+ members across Europe and APAC
 - 📈 **Capital Markets and Quantitative Analyst** at Bocconi Students for Quantitative Finance
 - 🏆 **Solo finalist in IMC Prosperity 4**, a global market-making challenge with 18,803 teams
-- 🚀 **TEF Ignition accelerator** with Vault Capital, a retail venture-investing platform
+- 🚀 **TEF Ignition accelerator** with Vault Capital, a retail venture-investing platform concept
 
 ### 🧭 What I'm into
 
@@ -85,9 +84,16 @@ my tools with AI-assisted development, so an idea becomes working software in da
 ### 🧰 Toolbox
 
 <p>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude">
+  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+  <img src="https://img.shields.io/badge/Lovable-FF5A5F?style=for-the-badge&logoColor=white" alt="Lovable">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas">
-  <img src="https://img.shields.io/badge/AI--assisted_development-Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=121620" alt="AI-assisted development with Claude">
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
 </p>

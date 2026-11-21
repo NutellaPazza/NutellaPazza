@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="380" viewBox="0 0 900 380" role="img" aria-label="Giovanni De Stasio. Finance at Bocconi, Milan. I study financial markets, build trading systems and develop apps.">
+<style>
+  .m { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+  .s { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+  .stage1 { opacity: 0; animation: stage1 2.75s linear backwards; }
+  @keyframes stage1 { 0%, 92% { opacity: 1; } 100% { opacity: 0; } }
+  .hide-until { animation-name: hidden; animation-timing-function: step-end; animation-fill-mode: backwards; }
+  @keyframes hidden { from, to { opacity: 0; } }
+  .cursor { animation: blink 0.9s steps(1) infinite; }
+  @keyframes blink { 50% { opacity: 0; } }
+  .rise { animation: rise 0.7s cubic-bezier(.22,1,.36,1) backwards; }
+  @keyframes rise { from { opacity: 0; transform: translateY(10px); } }
+  .fade { animation: fade 0.35s ease-out backwards; }
+  @keyframes fade { from { opacity: 0; } }
+  .pick { fill-opacity: 0; animation: pick 0.12s ease-out 2.15s forwards; }
+  @keyframes pick { to { fill-opacity: 1; } }
+  .pick-text { animation: pickText 0.12s ease-out 2.15s forwards; }
+  @keyframes pickText { to { fill: #f4f2ed; } }
+  .bar { transform: scaleX(0); transform-origin: 0 0; animation: bar 0.45s cubic-bezier(.23,1,.32,1) 2.1999999999999997s forwards; }
+  @keyframes bar { to { transform: scaleX(1); } }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<rect width="900" height="380" rx="14" fill="#f4f2ed"/>
+<g class="stage1">
+<rect class="bar" x="0" y="0" width="900" height="2" fill="#2f8f57"/>
+<text x="250" y="150" class="m" font-size="54" fill="#97958f">›</text>
+<text x="302" y="150" class="m hide-until" font-size="54" letter-spacing="2" fill="#17181a" style="animation-duration:0.55s">G</text>
+<text x="342" y="150" class="m hide-until" font-size="54" letter-spacing="2" fill="#17181a" style="animation-duration:0.74s">D</text>
+<text x="382" y="150" class="m hide-until" font-size="54" letter-spacing="2" fill="#17181a" style="animation-duration:0.88s">S</text>
+<rect class="cursor" x="428" y="108" width="24" height="48" fill="#17181a"/>
+<g class="fade" style="animation-delay:1.15s">
+<rect x="250" y="185" width="400" height="50" rx="9" fill="#17181a" class="pick"/>
+<rect x="250.5" y="185.5" width="399" height="49" rx="9" fill="none" stroke="#17181a" stroke-opacity="0.18"/>
+<text x="268" y="215" class="m pick-text" font-size="14" font-weight="600" letter-spacing="2" fill="#17181a">GDS</text>
+<text x="324" y="215" class="m pick-text" font-size="13" fill="#6a6964">Giovanni De Stasio · Bocconi · Milan</text>
+</g>
+<g class="fade" style="animation-delay:1.3499999999999999s">
+<text x="250" y="267" class="m" font-size="12" fill="#97958f">1 result</text>
+<rect x="540" y="249" width="110" height="28" rx="14" fill="#ebe8e1"/>
+<text x="595" y="268" class="m" font-size="12" text-anchor="middle" fill="#17181a">Enter ↵</text>
+</g>
+</g>
+<g class="hide-until" style="animation-duration:2.85s">
+<g class="rise" style="animation-delay:2.85s"><circle cx="59" cy="58" r="3" fill="#2f8f57"/><text x="72" y="62" class="m" font-size="12" letter-spacing="2.2" fill="#6a6964">GDS · FINANCE AT BOCCONI · MILAN</text></g>
+<g class="rise" style="animation-delay:2.94s"><text x="53" y="142" class="s" font-size="68" font-weight="300" letter-spacing="-2.6" fill="#17181a">Giovanni <tspan font-weight="650">De Stasio</tspan></text></g>
+<g class="rise" style="animation-delay:3.0500000000000003s"><text x="56" y="188" class="s" font-size="20" fill="#6a6964">I study financial markets, build <tspan fill="#17181a" font-weight="600">trading systems</tspan> and develop <tspan fill="#17181a" font-weight="600">apps</tspan>.</text></g>
+<g class="fade" style="animation-delay:3.2s">
+<line x1="56" x2="844" y1="262" y2="262" stroke="#17181a" stroke-opacity="0.12"/>
+<text x="56.0" y="296" class="m" font-size="10.5" letter-spacing="1.8" fill="#97958f">IMC PROSPERITY 4</text>
+<text x="56.0" y="322" class="s" font-size="15" fill="#17181a">Finalist of 18,803 teams</text>
+<text x="253.0" y="296" class="m" font-size="10.5" letter-spacing="1.8" fill="#97958f">VANTEDGE</text>
+<text x="253.0" y="322" class="s" font-size="15" fill="#17181a">Co-founder, Head of DCM</text>
+<text x="450.0" y="296" class="m" font-size="10.5" letter-spacing="1.8" fill="#97958f">BSQF</text>
+<text x="450.0" y="322" class="s" font-size="15" fill="#17181a">Quant analyst, two papers</text>
+<text x="647.0" y="296" class="m" font-size="10.5" letter-spacing="1.8" fill="#97958f">BOCCONI</text>
+<text x="647.0" y="322" class="s" font-size="15" fill="#17181a">Computer Science 30L/30</text>
+</g>
+</g>
+</svg>
