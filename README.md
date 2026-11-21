@@ -1,12 +1,12 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="GDS: Giovanni De Stasio, finance at Bocconi, Milan. I study financial markets, build trading systems and develop apps." src="assets/banner-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img alt="Giovanni De Stasio, finance student at Bocconi University. Quantitative finance, financial markets, venture capital, startups and apps." src="assets/header-light.svg" width="100%">
 </picture>
 
 <p align="center">
-  <a href="https://giovanni-portfolio-rho.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0e0f11?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://giovanni-portfolio-rho.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-121620?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/gds-/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <img src="https://img.shields.io/badge/Bocconi_University-Milan-2f8f57?style=for-the-badge&labelColor=0e0f11" alt="Bocconi University, Milan">
+  <img src="https://img.shields.io/badge/Bocconi_University-Milan-f2a93b?style=for-the-badge&labelColor=121620" alt="Bocconi University, Milan">
 </p>
 
 ### 👋 Hi, I'm Giovanni
