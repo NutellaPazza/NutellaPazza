@@ -39,8 +39,8 @@
 <text x="28" y="222" class="t ln" style="animation-delay:0.6s" xml:space="preserve"><tspan class="p">giovanni@bocconi:~$</tspan> whoami</text>
 <text x="28" y="244" class="t ln " style="animation-delay:1.5s" xml:space="preserve">Giovanni De Stasio · BSc International Economics &amp; Finance @ Bocconi · Milan</text>
 <text x="28" y="266" class="t ln" style="animation-delay:2.0s" xml:space="preserve"><tspan class="p">giovanni@bocconi:~$</tspan> cat interests.txt</text>
-<text x="28" y="288" class="t ln h" style="animation-delay:2.9s" xml:space="preserve">quantitative finance · capital markets · fixed income · venture capital</text>
+<text x="28" y="288" class="t ln h" style="animation-delay:2.9s" xml:space="preserve">quant finance · financial markets · venture capital · startups · apps</text>
 <text x="28" y="310" class="t ln" style="animation-delay:3.4s" xml:space="preserve"><tspan class="p">giovanni@bocconi:~$</tspan> ls research/</text>
-<text x="28" y="332" class="t ln d" style="animation-delay:4.3s" xml:space="preserve">vix-futures-strategy/   who-will-buy-the-debt.pdf   hormuz-shock-2026.pdf</text>
+<text x="28" y="332" class="t ln d" style="animation-delay:4.3s" xml:space="preserve">hormuz-shock-2026.pdf   macro-financial-regime-2026.pdf   vix-futures-strategy/</text>
 <text x="28" y="354" class="t ln" style="animation-delay:4.8s" xml:space="preserve"><tspan class="p">giovanni@bocconi:~$</tspan> <tspan class="cursor">▌</tspan></text>
 </svg>
